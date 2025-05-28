@@ -3,8 +3,8 @@ layout: post
 title: Scientific paper. Unraveling the role of cloud computing in health care system and biomedical sciences
 subtitle: A review on the cloud computing applications applied to medicine
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+gh-badge: [star]
+tags: [cloud computing, health care, genomics, proteomics, metabolomics, radiology]
 comments: true
 mathjax: true
 author: Annabel Margalef
