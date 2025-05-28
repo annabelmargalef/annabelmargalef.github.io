@@ -10,8 +10,9 @@ mathjax: true
 author: Annabel Margalef
 ---
 
-{: .box}
-**Revolutionizing Medicine — the use of cloud computing in the field of medicine**
+<div style="border: 1px solid #a62564; padding: 10px; background-color: #FFFAFA;">
+  **Revolutionizing Medicine — the use of cloud computing in the field of medicine**
+</div>
 
 Take a look at this article that analyzes how cloud computing is transforming healthcare and biomedical sciences by facilitating the storage, analysis, and secure access to large volumes of data.
 The paper explores applications across different areas of health, such as electronic medical records, telemedicine, genomics, proteomics, and metabolomics, all while addressing the ethical and cybersecurity challenges involved in handling sensitive data.
