@@ -24,7 +24,6 @@ In short, this article reviews how cloud computing is a key enabler for the adva
 
 
 # Citation
-Sachdeva, S., Bhatia, S., al Harrasi, A., Shah, Y. A., Anwer, K., Philip, A. K., Shah, S. F. A., Khan, A., & Ahsan Halim, S. (2024). Unraveling the role of cloud computing in health care system and biomedical sciences. Heliyon, 10(7). https://doi.org/10.1016/j.heliyon.2024.e29044
-
+Sachdeva, S., Bhatia, S., al Harrasi, A., Shah, Y. A., Anwer, K., Philip, A. K., Shah, S. F. A., Khan, A., & Ahsan Halim, S. (2024). Unraveling the role of cloud computing in health care system and biomedical sciences. Heliyon, 10(7). [https://doi.org/10.1016/j.heliyon.2024.e29044](https://doi.org/10.1016/j.heliyon.2024.e29044)
 
 
