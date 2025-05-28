@@ -9,6 +9,7 @@ comments: true
 mathjax: true
 author: Bill Smith
 ---
+
 {: .box-success}
 **Revolutionizing Medicine — the use of cloud computing in the field of medicine**
 
@@ -16,7 +17,7 @@ Take a look at this article that analyzes how cloud computing is transforming he
 The paper explores applications across different areas of health, such as electronic medical records, telemedicine, genomics, proteomics, and metabolomics, all while addressing the ethical and cybersecurity challenges involved in handling sensitive data.
 In short, this article reviews how cloud computing is a key enabler for the advancement of personalized medicine and modern biomedical research.
 
-[![Image and link to the paper](images/Unravelingtheroleofcloudcomputinginhealthcaresystemand.png)]([10.1016/j.heliyon.2024.e29044](https://doi.org/10.1016/j.heliyon.2024.e29044))
+[![Image and link to the paper](images/Unravelingtheroleofcloudcomputinginhealthcaresystemand.png)](https://doi.org/10.1016/j.heliyon.2024.e29044)
 
 
 # Citation
