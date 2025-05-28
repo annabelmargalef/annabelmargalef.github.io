@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post title
-subtitle: First post subtitle
+title: Scientific paper: Unraveling the role of cloud computing in health care system and biomedical sciences
+subtitle: A review on the cloud computing applications applied to medicine
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -9,82 +9,18 @@ comments: true
 mathjax: true
 author: Bill Smith
 ---
-
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+**Revolutionizing Medicine — the use of cloud computing in the field of medicine**
 
-**Here is some bold text**
+Take a look at this article that analyzes how cloud computing is transforming healthcare and biomedical sciences by facilitating the storage, analysis, and secure access to large volumes of data.
+The paper explores applications across different areas of health, such as electronic medical records, telemedicine, genomics, proteomics, and metabolomics, all while addressing the ethical and cybersecurity challenges involved in handling sensitive data.
+In short, this article reviews how cloud computing is a key enabler for the advancement of personalized medicine and modern biomedical research.
 
-## Here is a secondary heading
+[![Image and link to the paper](images/Unravelingtheroleofcloudcomputinginhealthcaresystemand.png)]([10.1016/j.heliyon.2024.e29044](https://doi.org/10.1016/j.heliyon.2024.e29044))
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
-Here's a table:
+# Citation
+Sachdeva, S., Bhatia, S., al Harrasi, A., Shah, Y. A., Anwer, K., Philip, A. K., Shah, S. F. A., Khan, A., & Ahsan Halim, S. (2024). Unraveling the role of cloud computing in health care system and biomedical sciences. Heliyon, 10(7). https://doi.org/10.1016/j.heliyon.2024.e29044
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
 
