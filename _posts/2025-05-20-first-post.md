@@ -17,7 +17,7 @@ Take a look at this article that analyzes how cloud computing is transforming he
 The paper explores applications across different areas of health, such as electronic medical records, telemedicine, genomics, proteomics, and metabolomics, all while addressing the ethical and cybersecurity challenges involved in handling sensitive data.
 In short, this article reviews how cloud computing is a key enabler for the advancement of personalized medicine and modern biomedical research.
 
-[![Image and link to the paper]({{ '/images/Unravelingtheroleofcloudcomputinginhealthcaresystemand.png' | relative_url }})](https://doi.org/10.1016/j.heliyon.2024.e29044)
+[![Image and link to the paper]({https://github.com/annabelmargalef/annabelmargalef.github.io/blob/main/images/Unravelingtheroleofcloudcomputinginhealthcaresystemand.png})](https://doi.org/10.1016/j.heliyon.2024.e29044)
 
 
 # Citation
